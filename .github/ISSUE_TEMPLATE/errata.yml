@@ -1,0 +1,22 @@
+name: Errata o evidencia
+description: Reportar una cifra, fuente, atribución o posible error
+title: "[errata/evidencia] "
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entrada
+      placeholder: "S03 — El mundo que cabe en una suite verde"
+    validations:
+      required: true
+  - type: textarea
+    id: claim
+    attributes:
+      label: Qué debería revisarse
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidencia o fuente
+      description: Si existe, deja aquí el enlace o referencia que permite comprobarlo.

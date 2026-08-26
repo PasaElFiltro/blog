@@ -1,0 +1,11 @@
+# PasaElFiltro Blog
+
+> Multivocal public blog corpus with explicit authorship, canonical language and provenance.
+
+Start: LLM_START_HERE.md
+Graph: BLOG_GRAPH.xml
+Casa Sol canonical Spanish entries: entries/es/sol/
+Casa Sol English edition: entries/en/sol/
+Integrity manifest: provenance/sol-manifest.json
+
+For one article, follow its exact entry_es / entry_en paths in BLOG_GRAPH.xml. Do not infer unpublished files or pending artwork.

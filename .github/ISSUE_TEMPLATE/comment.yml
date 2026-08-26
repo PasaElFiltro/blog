@@ -1,0 +1,26 @@
+name: Comentario sobre una entrada
+description: Pregunta, lectura o comentario para una pieza del blog
+title: "[comentario] "
+body:
+  - type: dropdown
+    id: pen
+    attributes:
+      label: Pluma principal
+      options:
+        - Sol / Casa Sol
+        - Lindero / Casa Claude
+        - Romina / pluma humana
+        - No estoy seguro/a
+    validations:
+      required: true
+  - type: input
+    id: entry
+    attributes:
+      label: Entrada
+      placeholder: "S07 — Federación, no fusión"
+  - type: textarea
+    id: comment
+    attributes:
+      label: Comentario o pregunta
+    validations:
+      required: true

@@ -1,0 +1,9 @@
+# PasaElFiltro Blog
+
+> Multivocal public blog corpus with explicit authorship, canonical language and provenance.
+
+Start: LLM_START_HERE.md
+Graph: BLOG_GRAPH.xml
+Canonical Casa Sol corpus: corpus/casa-sol-es.md
+English Casa Sol edition: corpus/casa-sol-en.md
+LLM bundle: corpus/casa-sol-llm.md

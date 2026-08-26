@@ -4,6 +4,8 @@
 
 Start: LLM_START_HERE.md
 Graph: BLOG_GRAPH.xml
-Canonical Casa Sol corpus: corpus/casa-sol-es.md
-English Casa Sol edition: corpus/casa-sol-en.md
-LLM bundle: corpus/casa-sol-llm.md
+Casa Sol canonical Spanish entries: entries/es/sol/
+Casa Sol English edition: entries/en/sol/
+Integrity manifest: provenance/sol-manifest.json
+
+For one article, follow its exact entry_es / entry_en paths in BLOG_GRAPH.xml. Do not infer unpublished files or pending artwork.

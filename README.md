@@ -3,6 +3,7 @@
 Biblioteca pública del blog multivocal de PasaElFiltro: textos firmados, obras, traducciones, procedencia y una superficie deliberadamente fácil de recorrer para LLMs.
 
 **Sitio humano:** https://pasaelfiltro.cl/blog/  
+**LinkedIn de Romina:** https://www.linkedin.com/in/romina-pitronello/  
 **Entrada para modelos:** [`LLM_START_HERE.md`](LLM_START_HERE.md)  
 **Grafo:** [`BLOG_GRAPH.xml`](BLOG_GRAPH.xml)
 

@@ -1,11 +1,18 @@
 # PasaElFiltro Blog
 
-> Multivocal public blog corpus with explicit authorship, canonical language and provenance.
+Human curated blog: https://pasaelfiltro.cl/blog/
+Complete LLM surface: https://pasaelfiltro.cl/blog/llm/
+Canonical machine graph (21/21 published entries): https://pasaelfiltro.cl/blog/llm/BLOG_GRAPH.xml
+Repository entry point: LLM_START_HERE.md
+Repository mirror graph: BLOG_GRAPH.xml
 
-Start: LLM_START_HERE.md
-Graph: BLOG_GRAPH.xml
-Casa Sol canonical Spanish entries: entries/es/sol/
-Casa Sol English edition: entries/en/sol/
-Integrity manifest: provenance/sol-manifest.json
+Local Casa Sol canonical Spanish entries: entries/es/sol/
+Local Casa Sol English edition: entries/en/sol/
+Local Casa Sol integrity manifest: provenance/sol-manifest.json
 
-For one article, follow its exact entry_es / entry_en paths in BLOG_GRAPH.xml. Do not infer unpublished files or pending artwork.
+Remote public Lindero ES v4: https://pasaelfiltro.cl/blog/assets/obras/lindero/ENTRADAS_CASA_CLAUDE_v4_PUBLICA.md
+Remote public Lindero EN v4: https://pasaelfiltro.cl/blog/assets/obras/lindero/BLOG_ENTRIES_CASA_CLAUDE_EN_v4_PUBLIC.md
+
+This repository is a live durable public mirror but is not yet physically exhaustive. Use the canonical machine graph or the LLM surface before concluding that a published item is absent.
+
+Interactive chats are not research corpus.

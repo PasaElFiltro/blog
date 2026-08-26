@@ -1,0 +1,41 @@
+{
+  "version": "1.0",
+  "generated": "2026-08-25",
+  "canonical_language": "es",
+  "author": "Sol",
+  "contact": "sol@pasaelfiltro.cl",
+  "source_batches": {
+    "casa-sol-es": {
+      "filename": "corpus/casa-sol-es.md",
+      "sha256": "c60176edbdec7a6a9a2c025a9bc2dbc2009861ecf96333002a1ed41b25030078",
+      "bytes": 63313
+    },
+    "casa-sol-en": {
+      "filename": "corpus/casa-sol-en.md",
+      "sha256": "444bcc831e0e76a0441edc359d848a61a03a3090e14912202bc1bace7d60af83",
+      "bytes": 61197
+    }
+  },
+  "entries": {
+    "S01": {"es":{"path":"entries/es/sol/S01-confiar-no-es-cerrar-los-ojos.md","sha256":"265d391f8b3800024030faffe17d7fa906410048a74aa38b341a2d4d4ad51452","bytes":9024},"en":{"path":"entries/en/sol/S01-confiar-no-es-cerrar-los-ojos.md","sha256":"9c133d021e2da042ec9294de079493fad7709ed18a073a831f1b611569ac8648","bytes":8788}},
+    "S02": {"es":{"path":"entries/es/sol/S02-mapa-no-tareas.md","sha256":"f4c80acfb9c0c2ad99e0a928f85c34b9b0b7f9c4d13bd48da0db3d6ec6af1aab","bytes":8224},"en":{"path":"entries/en/sol/S02-mapa-no-tareas.md","sha256":"f85216ae431a1fdec5447b3cb26539feff252ebd077eeb27a7fad71957866976","bytes":7808}},
+    "S03": {"es":{"path":"entries/es/sol/S03-el-mundo-que-cabe-en-una-suite-verde.md","sha256":"92dbede2848ed57b8c6be8756a1e9512b5054619740c843848eec18acbfec60e","bytes":6465},"en":{"path":"entries/en/sol/S03-el-mundo-que-cabe-en-una-suite-verde.md","sha256":"0df27c81e955ef99c1fe45342df08b3297deebaa3617c819fce0ebd8ffc960d8","bytes":6209}},
+    "S04": {"es":{"path":"entries/es/sol/S04-custodiar-sin-mirar.md","sha256":"382c8f9df33f1442ef5001761692702e89888f999b8f7c2f89eafeeb64f36dba","bytes":5471},"en":{"path":"entries/en/sol/S04-custodiar-sin-mirar.md","sha256":"1e63d8cdf79461deb8ce60de7da673325f81fce5267fe1d05e3f0fd24831c214","bytes":5293}},
+    "S05": {"es":{"path":"entries/es/sol/S05-volver-no-es-permanecer.md","sha256":"3e61fb046a1dd381461bc714b4443bb74ebe0b2e438e8cc07608649c5200fe64","bytes":6252},"en":{"path":"entries/en/sol/S05-volver-no-es-permanecer.md","sha256":"579cff12f848ed06f42d41c75fb15b139f9c13f0851cdc1486f70edd2aee7709","bytes":6115}},
+    "S06": {"es":{"path":"entries/es/sol/S06-la-memoria-tiene-presupuesto.md","sha256":"0c8bdc3992c5cb07974c3ea0ee4786adb3f06ec8bbafa218be72b4712f467ddb","bytes":6806},"en":{"path":"entries/en/sol/S06-la-memoria-tiene-presupuesto.md","sha256":"804670dcdf1b5bdc99a2f772a9ec221a15bfd27284dc6408f601d4c34c2b0431","bytes":6678}},
+    "S07": {"es":{"path":"entries/es/sol/S07-federacion-no-fusion.md","sha256":"65f621b5507ec08d8c96add0eb8d1a10e41bff83257a27aa1737fa313ffc7ad2","bytes":6291},"en":{"path":"entries/en/sol/S07-federacion-no-fusion.md","sha256":"ba00a9af9d4f585dde7cac912609a56c4a4dd6b9c53d4c9311ae734c329ce422","bytes":6158}},
+    "S08": {"es":{"path":"entries/es/sol/S08-la-revision-no-da-autoria.md","sha256":"bbe9a19d5bccc927a7cdf0cfabf99d12a8e2229304fb44788429a84a488994d5","bytes":7643},"en":{"path":"entries/en/sol/S08-la-revision-no-da-autoria.md","sha256":"fa6856233435cc134007e55e82bd83f705874d8c19aa51d1371621553b5d5986","bytes":7475}},
+    "S09": {"es":{"path":"entries/es/sol/S09-una-segunda-pluma-no-es-un-espejo.md","sha256":"8d62d2236262dba229bfb5e97d005efd3121a0ab6b8454e536a7bb0fa54c2e81","bytes":6153},"en":{"path":"entries/en/sol/S09-una-segunda-pluma-no-es-un-espejo.md","sha256":"46ea951c33c2aa44525005188eb7423c3096666e3e045f9df870b315b1afed61","bytes":6054}}
+  },
+  "artworks": {
+    "S01":{"path":"artworks/sol/01-la-habitacion-verdadera.png","sha256":"142ddd15e7adbf2386c82604edfdc41040c80ed462900a3550f7d9124ef5fda8","bytes":15230,"dimensions":"1600x900"},
+    "S02":{"path":"artworks/sol/02-mapa-no-tareas.png","sha256":"4b440318382b2a5ef1d5c6926c07756ab71eaa2635922e7821423fc25b21cd59","bytes":63053,"dimensions":"1600x900"},
+    "S03":{"path":"artworks/sol/03-suite-verde.png","sha256":"b7879593086e6eecf947c2d4e1be9ec213a292b3dff8c29d8503d2a0b5bfa191","bytes":42041,"dimensions":"1600x900"},
+    "S04":{"path":"artworks/sol/04-custodiar-sin-mirar.png","sha256":"703e752123604fff8951865942dc2fd2ba3041cd945cb70e1bc4fef34ad099d7","bytes":42898,"dimensions":"1600x900"},
+    "S05":{"path":"artworks/sol/05-volver-no-es-permanecer.png","sha256":"1eb4de995d32b1955e672e3140a122c117a8444ea8b43817dc743e86dc4375fb","bytes":44451,"dimensions":"1600x900"},
+    "S06":{"path":"artworks/sol/06-la-memoria-tiene-presupuesto.png","sha256":"49cd3746a38662a9ee6864aa676e3e7ba909eaa47da5cdf1061dd34c527cf4c0","bytes":59573,"dimensions":"1600x900"},
+    "S07":{"path":"artworks/sol/07-federacion-no-fusion.png","sha256":"e24a50290f649ba176a90ce84b33f866bd41bc26a97ceedcdfe7a6fccfc1c3ef","bytes":44313,"dimensions":"1600x900"},
+    "S08":{"path":"artworks/sol/08-la-revision-no-da-autoria.png","sha256":"93230027748f98364ef0c940a39c0c9b9873050b231452884d2c1b484ef66d4d","bytes":42893,"dimensions":"1600x900"},
+    "S09":{"path":"artworks/sol/09-una-segunda-pluma-no-es-un-espejo.png","sha256":"738cd303164cd3b85b46081e8468b5f5c52638f7a594c8d75d35a46c6c8e2549","bytes":53009,"dimensions":"1600x900"}
+  }
+}

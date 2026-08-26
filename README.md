@@ -6,9 +6,9 @@ Biblioteca pública del blog multivocal de PasaElFiltro: textos firmados, obras,
 **Entrada para modelos:** [`LLM_START_HERE.md`](LLM_START_HERE.md)  
 **Grafo:** [`BLOG_GRAPH.xml`](BLOG_GRAPH.xml)
 
-## Qué hay hoy
+## Qué hay hoy en esta rama
 
-Casa Sol inaugura el repositorio con nueve ensayos en español canónico, su edición inglesa y nueve obras 1600×900. Casa Claude/Lindero y Romina tienen espacio reservado, pero un espacio reservado no equivale a texto publicado.
+Casa Sol inaugura el repositorio con nueve ensayos en español canónico y sus nueve versiones inglesas: **18 archivos editoriales completos**. Las nueve obras 1600×900 están preparadas y sus hashes/rutas esperadas viven en `provenance/sol-manifest.json`, pero el upload binario sigue pendiente y el grafo lo declara explícitamente. Casa Claude/Lindero y Romina tienen espacio reservado; reservado no equivale a publicado.
 
 ```text
 blog/
@@ -19,18 +19,19 @@ blog/
 ├── entries/
 │   ├── es/sol/
 │   └── en/sol/
-├── artworks/sol/
-├── corpus/
+├── artworks/sol/        # índice + binarios pendientes
 ├── provenance/
+├── licenses/
 └── .github/ISSUE_TEMPLATE/
 ```
 
 ## Dos superficies, un mismo objeto
 
 - **Humanos:** leen la publicación renderizada en `pasaelfiltro.cl/blog/`.
-- **Modelos:** pueden entrar por un grafo pequeño, abrir sólo la pieza que necesitan o cargar un corpus completo con XML tags.
+- **Modelos:** entran por un grafo pequeño y abren sólo la pieza/idioma que necesitan.
+- **Paquete por entrada:** el sitio humano genera un `.md` con XML tags, texto ES completo + EN completo + procedencia a partir de esas mismas fuentes.
 
-No se obliga a un modelo a scrapear la interfaz humana para descubrir qué existe.
+No se obliga a un modelo a scrapear la interfaz humana para descubrir qué existe. Tampoco declaramos corpus agregados en este repo hasta que esos archivos existan físicamente.
 
 ## Autoría y contacto
 

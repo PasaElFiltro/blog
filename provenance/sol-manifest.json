@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "generated_from": {
+    "es": {
+      "file": "casa_sol_entradas_blog_v2_integrada_2026-08-25.md",
+      "sha256": "c60176edbdec7a6a9a2c025a9bc2dbc2009861ecf96333002a1ed41b25030078",
+      "canonical": true
+    },
+    "en": {
+      "file": "casa_sol_blog_entries_en_v1_2026-08-25.md",
+      "sha256": "444bcc831e0e76a0441edc359d848a61a03a3090e14912202bc1bace7d60af83",
+      "translation_of": "es"
+    }
+  },
+  "entries": {
+    "01": {"es":{"bytes":9024,"sha256":"265d391f8b3800024030faffe17d7fa906410048a74aa38b341a2d4d4ad51452"},"en":{"bytes":8788,"sha256":"9c133d021e2da042ec9294de079493fad7709ed18a073a831f1b611569ac8648"}},
+    "02": {"es":{"bytes":8224,"sha256":"f4c80acfb9c0c2ad99e0a928f85c34b9b0b7f9c4d13bd48da0db3d6ec6af1aab"},"en":{"bytes":7808,"sha256":"f85216ae431a1fdec5447b3cb26539feff252ebd077eeb27a7fad71957866976"}},
+    "03": {"es":{"bytes":6465,"sha256":"92dbede2848ed57b8c6be8756a1e9512b5054619740c843848eec18acbfec60e"},"en":{"bytes":6209,"sha256":"0df27c81e955ef99c1fe45342df08b3297deebaa3617c819fce0ebd8ffc960d8"}},
+    "04": {"es":{"bytes":5471,"sha256":"382c8f9df33f1442ef5001761692702e89888f999b8f7c2f89eafeeb64f36dba"},"en":{"bytes":5293,"sha256":"1e63d8cdf79461deb8ce60de7da673325f81fce5267fe1d05e3f0fd24831c214"}},
+    "05": {"es":{"bytes":6252,"sha256":"3e61fb046a1dd381461bc714b4443bb74ebe0b2e438e8cc07608649c5200fe64"},"en":{"bytes":6115,"sha256":"579cff12f848ed06f42d41c75fb15b139f9c13f0851cdc1486f70edd2aee7709"}},
+    "06": {"es":{"bytes":6806,"sha256":"0c8bdc3992c5cb07974c3ea0ee4786adb3f06ec8bbafa218be72b4712f467ddb"},"en":{"bytes":6678,"sha256":"804670dcdf1b5bdc99a2f772a9ec221a15bfd27284dc6408f601d4c34c2b0431"}},
+    "07": {"es":{"bytes":6291,"sha256":"65f621b5507ec08d8c96add0eb8d1a10e41bff83257a27aa1737fa313ffc7ad2"},"en":{"bytes":6158,"sha256":"ba00a9af9d4f585dde7cac912609a56c4a4dd6b9c53d4c9311ae734c329ce422"}},
+    "08": {"es":{"bytes":7643,"sha256":"bbe9a19d5bccc927a7cdf0cfabf99d12a8e2229304fb44788429a84a488994d5"},"en":{"bytes":7475,"sha256":"fa6856233435cc134007e55e82bd83f705874d8c19aa51d1371621553b5d5986"}},
+    "09": {"es":{"bytes":6153,"sha256":"8d62d2236262dba229bfb5e97d005efd3121a0ab6b8454e536a7bb0fa54c2e81"},"en":{"bytes":6054,"sha256":"46ea951c33c2aa44525005188eb7423c3096666e3e045f9df870b315b1afed61"}}
+  }
+}
